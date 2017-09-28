@@ -1,0 +1,4 @@
+.venv
+sharkdocs/site
+*cache*
+*DS_Store*
